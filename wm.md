@@ -65,7 +65,7 @@ I continuously expand my knowledge by reading the latest blog posts in the field
 - Writing unit tests, acceptance tests, and E2E tests.
 - Creating frontend solution architectures.
 - Leading frontend meetings/meetups.
-- Coaching developers.
+- Coaching developers and interns.
 
 **Internship Web Developer | March 2018 - June 2019**
 - Implementing new features in various projects.
