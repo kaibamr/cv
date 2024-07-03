@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am a software developer with 6 years of experience in creating applications. I am detail-oriented, open-minded, and professional in my work. Throughout my career, I have focused primarily on frontend technologies, emphasizing pixel-perfect design and usability. User experience is extremely important to me.
+I am a software developer with 6 years of experience in creating web applications. I am detail-oriented, open-minded, and professional in my work. Throughout my career, I have focused primarily on frontend technologies, emphasizing pixel-perfect design and usability. User experience is extremely important to me.
 
-I continuously expand my knowledge by reading the latest blog posts in the field of frontend development and listening to numerous frontend podcasts. I actively participate in meet-ups and often assist aspiring frontend developers in their projects. I am well-versed in technologies such as Angular, React Native, Gatsby, Next.js, and Node.js. I am also a big fan of IoT technology and enjoy creating such devices in my spare time.
+I continuously expand my knowledge by reading the latest blog posts in the field of software development and listening to numerous podcasts. I actively participate in meet-ups and often assist aspiring frontend developers in their projects. I am well-versed in technologies such as Angular, React Native, Gatsby, Next.js, and Node.js. I am also a big fan of IoT technology and enjoy creating such devices in my spare time.
 
 ## Selected Projects
 
