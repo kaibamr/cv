@@ -15,13 +15,13 @@ I continuously expand my knowledge by reading the latest blog posts in the field
 - Keeping application dependencies up to date.
 - Developing unit tests/UI unit tests using Jasmine and Karma.
 - Developing end-to-end (E2E) tests with Protractor.
-- Maintaining Angular npm packages.
-- Using SASS for styling as well as Angular Material.
+- Maintaining Angular open-source npm packages.
+- Using SASS for styling, and Angular Material as a component library.
 - Assisting other web developers in implementing new features.
 
 ### Tauron CMS
 **Content Management System for the End User Mobile Application of a Major Polish Energy Provider**
-- Working on new features using Angular, TypeScript, RxJS, and Angular Material libraries.
+- Working on new features using Angular, TypeScript, RxJS, and Angular Material.
 - Gathering functional requirements, analyzing them, and providing estimates for the client.
 - Designing application architecture to be reusable across similar modules.
 - Writing E2E tests using Cypress.
@@ -35,18 +35,18 @@ I continuously expand my knowledge by reading the latest blog posts in the field
 **Mobile Application for Comparing Shopping List Prices and Streamlining Shopping**
 - Developing code for a mobile app for Android and iOS using React Native.
 - Integrating analytics with Heap.io to improve UX.
-- Writing a dashboard for managing products, advertisements, and statistics using Next.js.
+- Writing the admin dashboard for managing products, advertisements, and statistics using Next.js.
 - Handling the release and review process for the iOS App Store.
 
 ### Envise Studio
 **Frontend and Backend Solutions for Property Management**
-- Developing an admin application using TypeScript, Angular, and PrimeNG.
+- Developing the admin application using TypeScript, Angular, and PrimeNG.
 - Creating a widget system for administrators to configure landing pages.
 - Developing shared libraries used between admin and customer applications.
 - Working on a 3D configurator for visualizing rooms in apartments.
 - Writing E2E tests using Cypress and Playwright.
-- Developing and maintaining a web application for reporting defects in apartments (Formly).
-- Creating the backend part of the application using NestJS.
+- Developing and maintaining a web application for reporting apartment defects (Formly).
+- Creating the backend part of the application using NestJS, Prisma, and PostgreSQL.
 - Integrating a forum (NodeBB) with the Envise Studio system for communication between property owners.
 
 ## Work Experience
@@ -64,7 +64,7 @@ I continuously expand my knowledge by reading the latest blog posts in the field
 - Implementing new features in PIM solutions.
 - Writing unit tests, acceptance tests, and E2E tests.
 - Creating frontend solution architectures.
-- Leading frontend meetings/meetups.
+- Leading frontend internal meetups.
 - Coaching developers and interns.
 
 **Internship Web Developer | March 2018 - June 2019**
@@ -75,6 +75,7 @@ I continuously expand my knowledge by reading the latest blog posts in the field
 ## Programming Skills
 - **Languages:** TypeScript, JavaScript
 - **Technologies:** Angular, React Native, React, HTML, CSS, SASS, GIT, Next.js, NestJS
+- **E2E Testing libraries:** Playwright, Cypress, Protractor
 
 ## Languages
 - **Polish:** Native
@@ -85,7 +86,3 @@ I continuously expand my knowledge by reading the latest blog posts in the field
   - Master of Science in Computer Science
 - **University of Silesia | 2015-2019**
   - Bachelor of Engineering in Computer Science
-
----
-
-Feel free to further customize it according to your preferences or additional information.
