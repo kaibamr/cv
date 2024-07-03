@@ -1,4 +1,10 @@
 # Wojciech Mrózek
+https://www.linkedin.com/in/wojciech-mrozek/ \
+http://www.github.com/kaibamr
+
+### Contact
+Phone: +48 791515838 \
+Email: wojciech_mrozek@outlook.com
 
 ## About Me
 
