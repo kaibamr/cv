@@ -61,7 +61,7 @@ I continuously expand my knowledge by reading the latest blog posts in the field
 **Full Stack Developer | July 2022 - Present**
 - 100% remote work in a SCRUM team.
 - Implementing new frontend and backend solutions based on business requirements.
-- Creating proof of concept (POC) solutions.
+- Working on proof of concepts.
 - Writing unit tests, acceptance tests, and E2E tests.
 - Conducting code reviews.
 
